@@ -1,0 +1,24 @@
+============================================================
+  Fashion CBIR - Evaluation Report
+  Queries: 200  |  Indexed: 44441
+============================================================
+
+  masterCategory:
+    Precision@ 1 = 0.9700  (n=200)
+    Precision@ 5 = 0.9690  (n=200)
+    Precision@10 = 0.9715  (n=200)
+
+  subCategory:
+    Precision@ 1 = 0.9250  (n=200)
+    Precision@ 5 = 0.8900  (n=200)
+    Precision@10 = 0.8885  (n=200)
+
+  articleType:
+    Precision@ 1 = 0.7400  (n=200)
+    Precision@ 5 = 0.6860  (n=200)
+    Precision@10 = 0.6760  (n=200)
+
+  baseColour:
+    Precision@ 1 = 0.5050  (n=200)
+    Precision@ 5 = 0.4680  (n=200)
+    Precision@10 = 0.4515  (n=200)

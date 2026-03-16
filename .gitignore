@@ -1,0 +1,9 @@
+/index
+*.npy
+*.nmslib
+*.pkl
+*.out
+*.err
+__pycache__/
+.DS_Store
+.idea/
